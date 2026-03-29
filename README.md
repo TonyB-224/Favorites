@@ -1,8 +1,8 @@
 ![alt text](https://github.com/ajariwala1/Favorites/blob/main/Docs/banner_au.png?raw=true)
 
 
-:stop_sign: `Incomplete` <br/>
-:bangbang: `Skeleton Project`
+:white_check_mark: `Complete` <br/>
+:grey_exclamation: `Finished Project`
 
 # Favorites
 
