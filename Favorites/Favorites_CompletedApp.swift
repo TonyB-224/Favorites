@@ -19,4 +19,3 @@ struct FavoritesApp: App {
         }
     }
 }
-
