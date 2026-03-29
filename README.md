@@ -14,9 +14,9 @@ This is a skeleton project that includes all assets you need to build the applic
 
 Clone the project and see the lecture videos on Canvas under Module 8 for instructions. <br/>
 See the completed Favorites application here: <br/>
-https://github.com/ajariwala1/Favorites_Completed
+https://github.com/TonyB-224/Favorites
 
-## What you will learn
+## What I Learned
 
 - Use of TabView with multiple tabs to organize app features.
 - Create custom SwiftUI views for cards and list rows.
